@@ -8,14 +8,15 @@ Welcome! I'm a Computer Science Engineering student with a passion for machine l
 !-->
 ## 🌱 Learning and Interests
 - **Deep Learning and Neural Networks**: Exploring advanced architectures and novel applications in image processingand NLP tasks.
-- **Big Data Technologies**: Gaining proficiency in Hadoop, Spark, and Pig for handling and analyzing large datasets.
+<!--- **Big Data Technologies**: Gaining proficiency in Hadoop, Spark, and Pig for handling and analyzing large datasets.
 - **Federated Learning and Differential Privacy**: Investigating privacy-preserving techniques in distributed machine learning.
-
+!-->
 ## 🚀 Skills
 - **Programming Languages**: Python, C++
 - **Web Development**: HTML5, CSS3, React.js, Three.js
 - **Machine Learning and Deep Learning**: TensorFlow, PyTorch, Keras, Scikit-learn
-- **Big Data**: Hadoop, Spark, Pig
+<!--- **Big Data**: Hadoop, Spark, Pig
+!-->
 - **Other Tools**: Streamlit, YOLOv8, HuggingFace, Weaviate, Transfomers, Large Language Models(LLMs)
 
 ## 📫 Get in Touch
