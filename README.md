@@ -2,7 +2,7 @@
 
 Welcome! I'm a Computer Science Engineering student with a passion for machine learning, deep learning, and innovative technology solutions. I enjoy working on projects that leverage AI to create social impact and solve real-world problems.
 
-## 🔭 Current Projects
+## 🔭 Current Project
 - **AI Enabled Sign Language Communication System**: Developing a system to convert Indian sign language gestures to text and audio using YOLOv8 and deep learning models.
 <!-- - **Visual Product Recommendations for E-commerce**: Leveraging generative AI models like LLaVA and CLIP for scalable, cloud-based visual product retrieval and recommendations.
 !-->
