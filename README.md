@@ -19,7 +19,7 @@ Welcome! I'm a Computer Science Engineering student with a passion for machine l
 
 ## 📫 Get in Touch
 - **Portfolio**: [My Portfolio](https://jeswin-ms-portfolio.vercel.app/)
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/jeswin-ms-5a347a237/)
+- **LinkedIn**: [Jeswin MS](https://www.linkedin.com/in/jeswin-ms-5a347a237/)
 - **Email**: jeswinms2003@gmail.com
 
 ## 💬 Let's Collaborate!
