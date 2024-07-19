@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Jeswin
 
-Welcome to my GitHub profile! I'm a Computer Science Engineering student with a passion for machine learning, deep learning, and innovative technology solutions. I enjoy working on projects that leverage AI to create social impact and solve real-world problems.
+Welcome! I'm a Computer Science Engineering student with a passion for machine learning, deep learning, and innovative technology solutions. I enjoy working on projects that leverage AI to create social impact and solve real-world problems.
 
 ## 🔭 Current Projects
 - **Bridging the Gap: AI Enabled Sign Language Communication System**: Developing a system to convert sign language gestures to text and audio using YOLOv8 and deep learning models.
