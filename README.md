@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Jeswin
 
-- 🏫 Final Year CSE Undergrad at MSRIT, Bangalore, IN
+- 🏫 Final Year CSE (AI ML) Undergrad at MSRIT, Bangalore, IN
 - 👨🏻‍💻 Interests in Deep Learning and AI
 
 <!-- - **Visual Product Recommendations for E-commerce**: Leveraging generative AI models like LLaVA and CLIP for scalable, cloud-based visual product retrieval and recommendations.
