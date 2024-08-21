@@ -1,11 +1,10 @@
 # Hi there! 👋 I'm Jeswin
 
 # 💫 About Me
-
+- 🏫 Final Year CSE Undergrad at MSRIT, Bangalore
+- :work
 <!-- - **Visual Product Recommendations for E-commerce**: Leveraging generative AI models like LLaVA and CLIP for scalable, cloud-based visual product retrieval and recommendations.
 !-->
-## 🌱 Learning and Interests
-- **Deep Learning and Neural Networks**: Exploring advanced architectures and novel applications in image processingand NLP tasks.
 
 ## 🚀 Skills
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
