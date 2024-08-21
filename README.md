@@ -18,9 +18,9 @@ Welcome! I'm a Computer Science Engineering student with a passion for machine l
 - **Other Tools**: Streamlit, YOLOv8, HuggingFace, Weaviate, Transfomers, Large Language Models(LLMs)
 
 ## 📫 Get in Touch
-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com//jeswin_16_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeswin-ms-5a347a237/)
-- [My Portfolio](https://jeswin-ms-portfolio.vercel.app/)
-- **Email**: jeswinms2003@gmail.com
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com//jeswin_16_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeswin-ms-5a347a237/)
+[My Portfolio](https://jeswin-ms-portfolio.vercel.app/)
+- jeswinms2003@gmail.com
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JeswinMS4&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
