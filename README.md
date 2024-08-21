@@ -22,8 +22,8 @@ Welcome! I'm a Computer Science Engineering student with a passion for machine l
 - **LinkedIn**: [Jeswin MS](https://www.linkedin.com/in/jeswin-ms-5a347a237/)
 - **Email**: jeswinms2003@gmail.com
 
-## 💬 Let's Collaborate!
-I'm always open to new opportunities and collaborations. Whether you're working on an exciting project or have an innovative idea, feel free to reach out!
-<!--- **Big Data Technologies**: Gaining proficiency in Hadoop, Spark, and Pig for handling and analyzing large datasets.
-- **Federated Learning and Differential Privacy**: Investigating privacy-preserving techniques in distributed machine learning.
-!-->
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JeswinMS4&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+[![](https://visitcount.itsvg.in/api?id=JeswinMS4&&icon=0&color=0)](https://visitcount.itsvg.in)
+
