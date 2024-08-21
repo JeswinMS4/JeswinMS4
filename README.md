@@ -1,18 +1,16 @@
 # Hi there! 👋 I'm Jeswin
 
-Welcome! I'm a Computer Science Engineering student with a passion for machine learning, deep learning, and innovative technology solutions. I enjoy working on projects that leverage AI to create social impact and solve real-world problems.
+# 💫 About Me
 
-## 🔭 Current Project
-- **AI Enabled Sign Language Communication System**: Developing a system to convert Indian sign language gestures to text and audio using YOLOv8 and deep learning models.
 <!-- - **Visual Product Recommendations for E-commerce**: Leveraging generative AI models like LLaVA and CLIP for scalable, cloud-based visual product retrieval and recommendations.
 !-->
 ## 🌱 Learning and Interests
 - **Deep Learning and Neural Networks**: Exploring advanced architectures and novel applications in image processingand NLP tasks.
 
 ## 🚀 Skills
-- **Programming Languages**: Python, C++
+- **Programming Languages**: ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
 - **Web Development**: HTML5, CSS3, React.js, Three.js
-- **Machine Learning and Deep Learning**: TensorFlow, PyTorch, Keras, Scikit-learn
+- **Machine Learning and Deep Learning**: ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 <!--- **Big Data**: Hadoop, Spark, Pig
 !-->
 - **Other Tools**: Streamlit, YOLOv8, HuggingFace, Weaviate, Transfomers, Large Language Models(LLMs)
