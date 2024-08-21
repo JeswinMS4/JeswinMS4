@@ -1,8 +1,10 @@
 # Hi there! 👋 I'm Jeswin
 
-# 💫 About Me
+## 💫 About Me
 - 🏫 Final Year CSE Undergrad at MSRIT, Bangalore
-- :work
+- 👨🏻‍💻 Uses `.py`, `.pynb`,`.cpp`
+- Interests in Deep Learning and AI
+- 🏎 brr..
 <!-- - **Visual Product Recommendations for E-commerce**: Leveraging generative AI models like LLaVA and CLIP for scalable, cloud-based visual product retrieval and recommendations.
 !-->
 
