@@ -1,6 +1,5 @@
 # Hi there! 👋 I'm Jeswin
 
-## 💫 About Me
 - 🏫 Final Year CSE Undergrad at MSRIT, Bangalore, IN
 - 👨🏻‍💻 Interests in Deep Learning and AI
 
