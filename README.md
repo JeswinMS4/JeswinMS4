@@ -19,7 +19,7 @@ Welcome! I'm a Computer Science Engineering student with a passion for machine l
 
 ## 📫 Get in Touch
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com//jeswin_16_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeswin-ms-5a347a237/)
-[My Portfolio](https://jeswin-ms-portfolio.vercel.app/)
+[![My Portfolio]](https://jeswin-ms-portfolio.vercel.app/)
 - jeswinms2003@gmail.com
 
 # 📊 GitHub Stats:
