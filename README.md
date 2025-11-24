@@ -14,11 +14,6 @@ I work across deep learning, backend engineering, and applied AI systems especia
 
 ---
 
-## Featured Work
-### SEVA AI – Real-Time Conversational AI System
-Built real-time ASR with WebSockets, diarization, VAD, RAG pipelines, and tone-classification models using HuBERT and distil-whisper.
-
-
 <!-- - **Visual Product Recommendations for E-commerce**: Leveraging generative AI models like LLaVA and CLIP for scalable, cloud-based visual product retrieval and recommendations.
 !-->
 
