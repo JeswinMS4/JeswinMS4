@@ -1,7 +1,23 @@
-# Hi there! 👋 I'm Jeswin
+# Hi, I'm Jeswin
 
-- 🏫 Final Year CSE (AI ML) Undergrad at MSRIT, Bangalore, IN
-- 👨🏻‍💻 Interests in Deep Learning and AI
+I'm a Computer Science graduate from MSRIT, specializing in AI and Machine Learning.  
+I work across deep learning, backend engineering, and applied AI systems — especially LLMs, ASR, microservices, and scalable Python backends.
+
+---
+
+## What I Work On
+- Production-grade backend systems using Python, FastAPI, Django, PostgreSQL  
+- Deep Learning projects involving ASR, vision models, transformer architectures  
+- LLM-based conversational systems, RAG workflows, and evaluation pipelines  
+- Microservices, cloud deployments, and data-intensive pipelines  
+- Research-oriented experiments in NLP, classification models, and fine-tuning
+
+---
+
+## Featured Work
+### SEVA AI – Real-Time Conversational AI System
+Built real-time ASR with WebSockets, diarization, VAD, RAG pipelines, and tone-classification models using HuBERT and distil-whisper.
+
 
 <!-- - **Visual Product Recommendations for E-commerce**: Leveraging generative AI models like LLaVA and CLIP for scalable, cloud-based visual product retrieval and recommendations.
 !-->
