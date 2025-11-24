@@ -1,7 +1,7 @@
 # Hi, I'm Jeswin
 
 I'm a Computer Science graduate from MSRIT, specializing in AI and Machine Learning.  
-I work across deep learning, backend engineering, and applied AI systems — especially LLMs, ASR, microservices, and scalable Python backends.
+I work across deep learning, backend engineering, and applied AI systems especially LLMs, ASR, microservices, and scalable Python backends.
 
 ---
 
